@@ -13,3 +13,4 @@
 ﻿Cuối tuần này hoặc tuần sau (bắt đầu từ ngày 27, thứ bảy): khảo sát hiện trường, tìm hiểu nghiệp vụ:
 ﻿+ Cách tính toán, quản lý nguyên liệu món ăn trong khu vực bếp
 ﻿+ Cách tính toán, quản lý thời gian làm việc của nhân việc -> liên hệ áp dụng cho việc chấm công trên ứng dụng android
++ ....
